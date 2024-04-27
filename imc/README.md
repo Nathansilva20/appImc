@@ -12,4 +12,5 @@
 
 **Captura de tela:** 
 
-![Captura de tela 2024-03-28 000204](https://github.com/Nathansilva20/APP_Contador/assets/114961313/f7e69ff9-ae45-4d28-b355-b2fa03159da6)
+![Captura 2](https://github.com/Nathansilva20/appImc/assets/114961313/420c8b64-bbc2-4532-a865-f2778ec52063)
+![Capturar](https://github.com/Nathansilva20/appImc/assets/114961313/e74d4c8e-ede5-4401-9a72-4d3db0e67c89)
